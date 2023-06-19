@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test">test</string>
+    <string name="city_filler">Charlotte,US</string>
+    <string name="temp_filler">Temperature</string>
+    <string name="temp_max_filler">Temperature Max</string>
+    <string name="temp_min_filler">Temperature Min</string>
+    <string name="descript_filler">Description</string>
+    <string name="humidity_filler">Humidity</string>
+    <string name="wind_speed_filler">Wind Speed</string>
+    <string name="wind_degree_filler">Wind Degree</string>
+    <string name="cloud_filler">Cloudiness</string>
+    <string name="text_temp_max_filler">Max: </string>
+    <string name="text_temp_min_filler">"Min: "</string>
+    <string name="humid_text_filler">"Humidity: "</string>
+    <string name="f_filler">F</string>
+    <string name="percent_filler">%</string>
+    <string name="title_filler_01">Current Weather</string>
+</resources>

@@ -1,0 +1,23 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/Weather/app/src/main/res/layout/activity_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/Weather/app/src/main/res/layout/forecast_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/Weather/app/src/main/res/layout/fragment_cities.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/Weather/app/src/main/res/layout/fragment_current_weather.xml" value="0.25" />
+        <entry key="..\:/Users/Andre/AndroidStudioProjects/Weather/app/src/main/res/layout/fragment_weather_forecast.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22870370370370371" />
+        <entry key="app/src/main/res/layout/fragment_cities.xml" value="0.3255208333333333" />
+        <entry key="app/src/main/res/layout/fragment_current_weather.xml" value="0.3343589743589744" />
+        <entry key="app/src/main/res/layout/fragment_weather_forecast.xml" value="0.3343589743589744" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
